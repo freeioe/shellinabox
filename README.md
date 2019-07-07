@@ -57,7 +57,7 @@ listed below. This will create executable file `shellinaboxd` in project directo
 2. Clone source files and move to project directory
 
    ```
-    git clone https://github.com/ravermeister/shellinabox.git && cd shellinabox
+    git clone https://github.com/ngaro/shellinabox.git && git checkout garodev && cd shellinabox
    ```
 
 3. Run autotools in project directory
